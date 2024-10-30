@@ -1,4 +1,4 @@
-# Tableau-HR-Project-DATA-Codes
+# Tableau HR Dashboard Project - DATA & Codes
 
 After providing chatgpt promt the data had been geerated for HR analytics project in Tableau by using Python Faker library below:
 
